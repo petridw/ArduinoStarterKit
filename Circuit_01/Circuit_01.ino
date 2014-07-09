@@ -126,7 +126,7 @@ void loop()
   
   digitalWrite(13, LOW);    // Turn off the LED
   
-  delay(1000);              // Wait for one second
+  delay(200);              // Wait for one second
 
   // All together, the above code turns the LED on, waits one
   // second, turns it off, and waits another second.
